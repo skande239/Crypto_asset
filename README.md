@@ -1,8 +1,9 @@
-# Welcome to your Lovable project
-
-## Project info
-
-**URL**: https://lovable.dev/projects/20881854-92e8-40e3-9d3f-b5d4f413283d
+# Welcome to your Crypto_asset
+overview of my crypto assets by making an app that: 
+    • Uses the CoinCap API for data
+    • Let you see the top 50 crypto assets ranked by market cap
+    • Lets me click on an asset and see details (including ga raph with its price development)
+    • Uses a strong neo-brutalist theme
 
 ## How can I edit this code?
 
@@ -24,10 +25,10 @@ Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+git clone https://github.com/skande239/Crypto_asset.git
 
 # Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+cd Crypto_asset
 
 # Step 3: Install the necessary dependencies.
 npm i
