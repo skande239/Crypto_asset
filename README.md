@@ -9,11 +9,7 @@ overview of my crypto assets by making an app that:
 
 There are several ways of editing your application.
 
-**Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/20881854-92e8-40e3-9d3f-b5d4f413283d) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
